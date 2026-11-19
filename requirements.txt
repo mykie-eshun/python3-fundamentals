@@ -1,2 +1,8 @@
 jupyterlab
 pytest
+notebook
+pytz
+python-dateutil
+requests
+openpyxl
+xlrd
