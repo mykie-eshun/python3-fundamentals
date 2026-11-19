@@ -1,0 +1,5 @@
+from solution import main
+
+
+def test_main_runs():
+    main()
