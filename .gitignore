@@ -5,3 +5,6 @@ __pycache__/
 scratch/
 .DS_Store
 .pytest_cache/
+course-notebooks/*
+!course-notebooks/.gitkeep
+*fred_solution*
