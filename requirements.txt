@@ -6,3 +6,7 @@ python-dateutil
 requests
 openpyxl
 xlrd
+numpy
+pandas
+matplotlib
+mplfinance
